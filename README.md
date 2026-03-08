@@ -527,19 +527,3 @@ This repository demonstrates integrated application of modern NLP and ML techniq
 - [FastAPI Framework](https://fastapi.tiangolo.com/)
 
 ---
-
-## Citation
-
-If you reference this work, please cite it as:
-
-```
-Semantic Search with Fuzzy Clustering and Semantic Cache
-Trademarkia Internship Application Project
-2025-2026
-```
-
----
-
-## Contact & Questions
-
-For questions about this implementation or project structure, please refer to the code comments and evaluation notebook (`evaluation/eval.ipynb`) which demonstrates system capabilities and performance metrics.
