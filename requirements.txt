@@ -1,0 +1,10 @@
+sentence-transformers
+scikit-learn
+faiss-cpu
+numpy
+pandas
+tqdm
+scikit-fuzzy
+fastapi
+uvicorn
+matplotlib

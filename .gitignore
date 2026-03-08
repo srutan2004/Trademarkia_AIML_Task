@@ -1,0 +1,24 @@
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ML artifacts
+embeddings/
+clustering_results/
+
+*.npy
+*.bin
+*.pkl
